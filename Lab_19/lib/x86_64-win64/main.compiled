@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\Programm\Lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiC:\Колледж\Разработка кода информационный систем\Задание 3\Задание 3\lib\x86_64-win64&quot; -FuC:\Programm\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Programm\Lazarus\lcl\units\x86_64-win64 -FuC:\Programm\Lazarus\components\freetype\lib\x86_64-win64 -FuC:\Programm\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Programm\Lazarus\packager\units\x86_64-win64 &quot;-FuC:\Колледж\Разработка кода информационный систем\Задание 3\Задание 3\&quot; &quot;-FUC:\Колледж\Разработка кода информационный систем\Задание 3\Задание 3\lib\x86_64-win64\&quot; &quot;-FEC:\Колледж\Разработка кода информационный систем\Задание 3\Задание 3\&quot; &quot;-oC:\Колледж\Разработка кода информационный систем\Задание 3\Задание 3\main.exe&quot; -dLCL -dLCLwin32 main.lpr"/>
-</CONFIG>
